@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+    margin: 0px;
+}
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 2px solid black;    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 10px;
+
+}
